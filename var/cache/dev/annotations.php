@@ -61,6 +61,98 @@ return [[
 '%5B%5BC%5DSymfony%5CBundle%5CFrameworkBundle%5CController%5CAbstractController%23addLink%5D%5B1%5D' => 2,
 '%5BSymfony%5CBundle%5CFrameworkBundle%5CController%5CAbstractController%24container%5D%5B1%5D' => 1,
 '%5B%5BC%5DSymfony%5CBundle%5CFrameworkBundle%5CController%5CAbstractController%24container%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%5D%5B1%5D' => 3,
+'%5B%5BC%5DApp%5CController%5CBookingController%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23index%5D%5B1%5D' => 4,
+'%5B%5BC%5DApp%5CController%5CBookingController%23index%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23calendar%5D%5B1%5D' => 5,
+'%5B%5BC%5DApp%5CController%5CBookingController%23calendar%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23new%5D%5B1%5D' => 6,
+'%5B%5BC%5DApp%5CController%5CBookingController%23new%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23show%5D%5B1%5D' => 7,
+'%5B%5BC%5DApp%5CController%5CBookingController%23show%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23edit%5D%5B1%5D' => 8,
+'%5B%5BC%5DApp%5CController%5CBookingController%23edit%5D%5B1%5D' => 2,
+'%5BApp%5CController%5CBookingController%23delete%5D%5B1%5D' => 9,
+'%5B%5BC%5DApp%5CController%5CBookingController%23delete%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%5D%5B1%5D' => 10,
+'%5B%5BC%5DApp%5CEntity%5CBooking%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23getId%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23getId%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23getBeginAt%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23getBeginAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23setBeginAt%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23setBeginAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23getEndAt%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23getEndAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23setEndAt%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23setEndAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23getTitle%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23getTitle%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%23setTitle%5D%5B1%5D' => 1,
+'%5B%5BC%5DApp%5CEntity%5CBooking%23setTitle%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%24id%5D%5B1%5D' => 11,
+'%5B%5BC%5DApp%5CEntity%5CBooking%24id%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%24beginAt%5D%5B1%5D' => 12,
+'%5B%5BC%5DApp%5CEntity%5CBooking%24beginAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%24endAt%5D%5B1%5D' => 13,
+'%5B%5BC%5DApp%5CEntity%5CBooking%24endAt%5D%5B1%5D' => 2,
+'%5BApp%5CEntity%5CBooking%24title%5D%5B1%5D' => 14,
+'%5B%5BC%5DApp%5CEntity%5CBooking%24title%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%23__construct%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%23__construct%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%23loadAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%23loadAction%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%23dispatchWithBC%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%23dispatchWithBC%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%24serializer%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%24serializer%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CController%5CCalendarController%24eventDispatcher%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CController%5CCalendarController%24eventDispatcher%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23__construct%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23__construct%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23getTitle%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23getTitle%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23setTitle%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23setTitle%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23getStart%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23getStart%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23setStart%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23setStart%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23getEnd%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23getEnd%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23setEnd%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23setEnd%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23isAllDay%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23isAllDay%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23setAllDay%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23setAllDay%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23getOptions%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23getOptions%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23setOptions%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23setOptions%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23getOption%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23getOption%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23addOption%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23addOption%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23removeOption%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23removeOption%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%23toArray%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%23toArray%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%24title%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%24title%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%24start%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%24start%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%24end%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%24end%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%24allDay%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%24allDay%5D%5B1%5D' => 2,
+'%5BCalendarBundle%5CEntity%5CEvent%24options%5D%5B1%5D' => 1,
+'%5B%5BC%5DCalendarBundle%5CEntity%5CEvent%24options%5D%5B1%5D' => 2,
 '%5BDoctrine%5CBundle%5CDoctrineBundle%5CController%5CProfilerController%5D%5B1%5D' => 1,
 '%5B%5BC%5DDoctrine%5CBundle%5CDoctrineBundle%5CController%5CProfilerController%5D%5B1%5D' => 2,
 '%5BDoctrine%5CBundle%5CDoctrineBundle%5CController%5CProfilerController%23setContainer%5D%5B1%5D' => 1,
@@ -517,11 +609,366 @@ return [[
 '%5B%5BC%5DSymfony%5CBundle%5CFrameworkBundle%5CController%5CTemplateController%23__invoke%5D%5B1%5D' => 2,
 '%5BSymfony%5CBundle%5CFrameworkBundle%5CController%5CTemplateController%24twig%5D%5B1%5D' => 1,
 '%5B%5BC%5DSymfony%5CBundle%5CFrameworkBundle%5CController%5CTemplateController%24twig%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23__construct%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23__construct%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23body%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23body%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23stylesheet%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%23stylesheet%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%24errorRenderer%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%24errorRenderer%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%24profiler%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CExceptionPanelController%24profiler%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23__construct%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23__construct%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23homeAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23homeAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23panelAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23panelAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23toolbarAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23toolbarAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchBarAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchBarAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchResultsAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchResultsAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23searchAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23phpinfoAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23phpinfoAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23openAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23openAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23getTemplateManager%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23getTemplateManager%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23denyAccessIfProfilerDisabled%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23denyAccessIfProfilerDisabled%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23renderWithCspNonces%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%23renderWithCspNonces%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24templateManager%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24templateManager%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24generator%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24generator%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24profiler%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24profiler%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24twig%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24twig%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24templates%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24templates%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24cspHandler%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24cspHandler%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24baseDir%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CProfilerController%24baseDir%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23__construct%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23__construct%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23panelAction%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23panelAction%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23getTraces%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%23getTraces%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24profiler%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24profiler%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24twig%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24twig%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24matcher%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24matcher%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24routes%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24routes%5D%5B1%5D' => 2,
+'%5BSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24expressionLanguageProviders%5D%5B1%5D' => 1,
+'%5B%5BC%5DSymfony%5CBundle%5CWebProfilerBundle%5CController%5CRouterController%24expressionLanguageProviders%5D%5B1%5D' => 2,
 
 ], [
 
 0 => 'N;',
 1 => [],
-2 => 1616794706,
+2 => 1616797111,
+3 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/booking',
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+4 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/',
+                ],
+                'name' => [
+                    'booking_index',
+                ],
+                'methods' => [
+                    [
+                        'GET',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+5 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/calendar',
+                ],
+                'name' => [
+                    'booking_calendar',
+                ],
+                'methods' => [
+                    [
+                        'GET',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+6 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/new',
+                ],
+                'name' => [
+                    'booking_new',
+                ],
+                'methods' => [
+                    [
+                        'GET',
+                        'POST',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+7 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/{id}',
+                ],
+                'name' => [
+                    'booking_show',
+                ],
+                'methods' => [
+                    [
+                        'GET',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+8 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/{id}/edit',
+                ],
+                'name' => [
+                    'booking_edit',
+                ],
+                'methods' => [
+                    [
+                        'GET',
+                        'POST',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+9 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+        ],
+        null,
+        [
+            'Symfony\\Component\\Routing\\Annotation\\Route' => [
+                'path' => [
+                    '/{id}',
+                ],
+                'name' => [
+                    'booking_delete',
+                ],
+                'methods' => [
+                    [
+                        'POST',
+                    ],
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+10 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Doctrine\\ORM\\Mapping\\Entity'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Entity')),
+        ],
+        null,
+        [
+            'stdClass' => [
+                'repositoryClass' => [
+                    'App\\Repository\\BookingRepository',
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+11 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (($p = &\Symfony\Component\VarExporter\Internal\Registry::$prototypes)['Doctrine\\ORM\\Mapping\\Column'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Column')),
+            clone ($p['Doctrine\\ORM\\Mapping\\GeneratedValue'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\GeneratedValue')),
+            clone ($p['Doctrine\\ORM\\Mapping\\Id'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Id')),
+        ],
+        null,
+        [
+            'stdClass' => [
+                'type' => [
+                    'integer',
+                ],
+            ],
+        ],
+        [
+            $o[0],
+            $o[1],
+            $o[2],
+        ],
+        []
+    );
+},
+12 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Doctrine\\ORM\\Mapping\\Column'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Column')),
+        ],
+        null,
+        [
+            'stdClass' => [
+                'type' => [
+                    'datetime',
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+13 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Doctrine\\ORM\\Mapping\\Column'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Column')),
+        ],
+        null,
+        [
+            'stdClass' => [
+                'type' => [
+                    'datetime',
+                ],
+                'nullable' => [
+                    true,
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
+14 => static function () {
+    return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+        $o = [
+            clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Doctrine\\ORM\\Mapping\\Column'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Column')),
+        ],
+        null,
+        [
+            'stdClass' => [
+                'length' => [
+                    255,
+                ],
+            ],
+        ],
+        [
+            $o[0],
+        ],
+        []
+    );
+},
 
 ]];
